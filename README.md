@@ -4,5 +4,5 @@
 - Integrantes:
    - Roberto Rodriguez @xRobertIng(https://github.com/xRobertIng)
    - Ricardo Pacheco 
-  -  Nestor Anillo 
+  -  Nestor Anillo @nestoranillo(https://github.com/nestoranillo)
 
