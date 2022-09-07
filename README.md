@@ -3,7 +3,7 @@
 >**Proyecto Electiva de Profundizacion I-Creacion de APs**.
 >- Integrantes:
 >   - Roberto Rodriguez @xRobertIng(<https://github.com/xRobertIng>)
->   - Ricardo Pacheco 
+>   - Ricardo Pacheco @pichy10(<https://github.com/pichy10>)
 >   - Nestor Anillo @nestoranillo(<https://github.com/nestoranillo>)
 >
 >- Sprint 1:
